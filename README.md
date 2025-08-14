@@ -2,16 +2,15 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Júnio Rodrigues Neres
+Matricula: 903415
 
 ## Tela de inspeção com navegador
-
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+[PRINT 1](images/print1.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+[PRINT 2](images/print2.png)
 
 
 ## Orientações sobre Linguagem MarkDown
